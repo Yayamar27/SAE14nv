@@ -40,7 +40,7 @@ Le site propose :
 ## 🌐 Hébergement
 
 Le site est hébergé sur GitHub Pages. Vous pouvez le consulter ici :
-[Les Exploits du Maroc](https://github.com/Yayamar27/les-exploits-du-maroc)
+[Les Exploits du Maroc](https://github.com/Yayamar27/SAE14nv)
 
 ---
 
